@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+
+# Database and State
+hanbreaker_history.db
+sync_state.json
+
+# IDEs
+.idea/
+.vscode/
