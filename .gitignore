@@ -12,3 +12,6 @@ sync_state.json
 # IDEs
 .idea/
 .vscode/
+
+# File system
+**/.DS_Store
